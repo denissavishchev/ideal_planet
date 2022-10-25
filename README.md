@@ -1,16 +1,5 @@
-# transparent_page
+# Ideal Planet
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="366" alt="Screenshot 2022-10-25 at 06 49 15" src="https://user-images.githubusercontent.com/77541683/197685542-28212f0b-a47b-4e62-a61d-9c1ae2f0e239.png">
